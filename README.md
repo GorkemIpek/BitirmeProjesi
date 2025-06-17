@@ -1,2 +1,2 @@
 # BitirmeProjesi
-Lütfen .py dosyalarını google colab üzerinde çalıştırın.
+egitim.py ve Test.py dosyaları final versiyonlardır.
